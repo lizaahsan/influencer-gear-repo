@@ -1,0 +1,182 @@
+
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+a{
+ text-decoration: none;   
+}
+p{
+    font-size: 18px;
+}
+.menu{
+    float: right;
+    padding: 15px;
+    width: 300px;
+    height: 100px;
+    margin-top: 90px;
+}
+.header{
+    float: left;
+    margin-top: 90px;
+    margin-left: 30px;
+    font: weight 300px;
+    width: 800px;
+    height: 100px;
+}
+.heading{
+    font-weight: 700;
+}
+.button-camera{
+    width:100%;
+    height: 200px;
+    display: flex;
+}
+.button-color{
+    color: rgb(224, 59, 114);
+}
+.button-left{
+    float: left;
+    font-size: 18px;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.camera-right{
+   margin-left: 650px;
+}
+/* Section two end */
+.Starting-text{
+    margin-top: 90px;
+    margin-bottom: 50px;
+    color:black;
+    text-align:center;
+    width: 100%;
+    height: 100px;
+    font-weight: 700;
+    font-size: 2em;
+}
+.popular-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 150px;
+}
+.popular-box-one{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+/* for the popular-box-one */
+.box-one{
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.box-two{
+    color:black;
+    text-align:left;
+    padding-left: 20px;
+    font: 1em;
+}
+.box-three{
+    padding-left: 20px;
+}
+/* for the popular-box-one */
+.popular-box-two{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.popular-box-three{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.popular-box-four{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.popular-box-five{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.popular-box-six{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.popular-box-seven{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.popular-box-eight{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    height: 600px;
+    justify-content: center;
+}
+.popular-box-nine{
+    width: 400px;
+    height: 600px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+}
+.extra-work{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    margin-top: 100px;
+   
+}
+.extra-one{
+    width: 500px;
+    height: 500px;
+    margin-left: 20px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: left;
+    padding: 20px;
+    text-align: justify;
+
+}
+.extra-two{
+    width:700px;
+    height: 500px;
+    border: 5px solid rgb(218, 102, 122);
+    border-radius: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+.extra-camera{
+    width: 630px;
+    height: 450px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(218, 102, 122);
+    text-align: center;
+    color: cornsilk;
+}
